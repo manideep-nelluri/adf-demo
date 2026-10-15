@@ -1,0 +1,81 @@
+student_id,student_name,age,course,marks,attendance_percent,city,result
+STU001,Pooja Iyer,20,Electronics,72,75,Hyderabad,Pass
+STU002,Kiran Rao,22,Commerce,92,93,Delhi,Fail
+STU003,Ananya Das,25,Commerce,92,57,Delhi,Fail
+STU004,Nisha Rao,24,Commerce,42,59,Delhi,Fail
+STU005,Divya Menon,26,Business,55,56,Bengaluru,Fail
+STU006,Priya Reddy,20,Computer Science,65,96,Chennai,Fail
+STU007,Aditya Shah,18,Electronics,54,98,Pune,Fail
+STU008,Divya Menon,25,Computer Science,52,88,Chennai,Fail
+STU009,Kiran Rao,22,Data Science,49,56,Delhi,Pass
+STU010,Neha Kapoor,26,Mechanical,50,71,Chennai,Fail
+STU011,Vikram Singh,22,Business,97,67,Hyderabad,Pass
+STU012,Rahul Verma,25,Data Science,91,60,Delhi,Fail
+STU013,Divya Menon,19,Electronics,72,74,Bengaluru,Pass
+STU014,Divya Menon,26,Data Science,50,67,Bengaluru,Pass
+STU015,Neha Kapoor,18,Commerce,82,84,Mumbai,Pass
+STU016,Nisha Rao,19,Computer Science,74,80,Delhi,Fail
+STU017,Manoj Reddy,24,Mechanical,44,63,Chennai,Pass
+STU018,Sanjay Das,25,Business,79,63,Mumbai,Pass
+STU019,Arjun Kumar,24,Electronics,42,62,Mumbai,Pass
+STU020,Meera Joshi,20,Data Science,76,100,Bengaluru,Fail
+STU021,Manoj Reddy,22,Computer Science,67,67,Delhi,Fail
+STU022,Arjun Kumar,22,Electronics,46,87,Delhi,Pass
+STU023,Suresh Kumar,20,Data Science,78,91,Hyderabad,Pass
+STU024,Rahul Verma,18,Business,68,96,Bengaluru,Fail
+STU025,Nisha Rao,18,Mechanical,72,96,Chennai,Fail
+STU026,Kavya Nair,24,Commerce,93,59,Delhi,Pass
+STU027,Ananya Das,25,Mechanical,96,84,Bengaluru,Fail
+STU028,Nisha Rao,20,Commerce,75,77,Pune,Pass
+STU029,Divya Menon,26,Electronics,48,75,Bengaluru,Fail
+STU030,Sneha Patel,22,Mechanical,66,64,Hyderabad,Pass
+STU031,Meera Joshi,24,Electronics,88,70,Bengaluru,Fail
+STU032,Suresh Kumar,23,Data Science,55,86,Mumbai,Fail
+STU033,Neha Kapoor,22,Mechanical,37,60,Pune,Fail
+STU034,Kavya Nair,21,Electronics,80,58,Hyderabad,Fail
+STU035,Neha Kapoor,25,Commerce,36,61,Pune,Pass
+STU036,Rohan Gupta,23,Mechanical,81,57,Pune,Pass
+STU037,Suresh Kumar,26,Data Science,81,90,Chennai,Pass
+STU038,Aditya Shah,26,Mechanical,70,94,Delhi,Pass
+STU039,Arjun Kumar,19,Mechanical,82,76,Mumbai,Fail
+STU040,Arjun Kumar,21,Electronics,100,80,Mumbai,Pass
+STU041,Priya Reddy,18,Data Science,77,85,Mumbai,Fail
+STU042,Arjun Kumar,26,Data Science,76,94,Chennai,Pass
+STU043,Aditya Shah,22,Electronics,78,87,Mumbai,Fail
+STU044,Suresh Kumar,22,Mechanical,37,78,Chennai,Pass
+STU045,Pooja Iyer,22,Business,38,93,Pune,Fail
+STU046,Suresh Kumar,21,Business,41,92,Pune,Pass
+STU047,Manoj Reddy,24,Data Science,66,57,Mumbai,Pass
+STU048,Vikram Singh,18,Mechanical,75,81,Bengaluru,Fail
+STU049,Vikram Singh,24,Electronics,95,58,Delhi,Pass
+STU050,Manoj Reddy,21,Electronics,76,97,Pune,Fail
+STU051,Kiran Rao,20,Mechanical,78,89,Chennai,Fail
+STU052,Nisha Rao,25,Data Science,66,72,Mumbai,Fail
+STU053,Kavya Nair,22,Commerce,61,99,Delhi,Fail
+STU054,Kiran Rao,25,Commerce,70,73,Hyderabad,Fail
+STU055,Aditya Shah,23,Data Science,72,57,Chennai,Pass
+STU056,Divya Menon,25,Business,67,85,Bengaluru,Pass
+STU057,Ishita Roy,22,Electronics,69,63,Hyderabad,Pass
+STU058,Kavya Nair,18,Business,63,95,Bengaluru,Pass
+STU059,Sneha Patel,24,Commerce,95,61,Delhi,Pass
+STU060,Aarav Sharma,26,Data Science,87,96,Pune,Fail
+STU061,Vikram Singh,22,Commerce,71,96,Hyderabad,Pass
+STU062,Suresh Kumar,21,Electronics,39,66,Pune,Pass
+STU063,Priya Reddy,24,Mechanical,58,73,Hyderabad,Pass
+STU064,Meera Joshi,19,Commerce,71,84,Delhi,Fail
+STU065,Arjun Kumar,26,Mechanical,69,67,Hyderabad,Fail
+STU066,Ananya Das,25,Business,67,100,Bengaluru,Pass
+STU067,Kiran Rao,22,Electronics,59,66,Mumbai,Fail
+STU068,Pooja Iyer,26,Commerce,46,80,Delhi,Pass
+STU069,Ananya Das,20,Mechanical,76,70,Hyderabad,Fail
+STU070,Aditya Shah,21,Mechanical,69,76,Chennai,Pass
+STU071,Rohan Gupta,23,Business,65,58,Delhi,Pass
+STU072,Sanjay Das,22,Data Science,86,98,Mumbai,Fail
+STU073,Sneha Patel,22,Commerce,63,69,Bengaluru,Fail
+STU074,Arjun Kumar,25,Business,82,81,Delhi,Fail
+STU075,Ishita Roy,21,Data Science,45,88,Pune,Fail
+STU076,Rahul Verma,19,Computer Science,99,67,Mumbai,Pass
+STU077,Ananya Das,23,Electronics,91,62,Delhi,Pass
+STU078,Suresh Kumar,25,Computer Science,100,83,Hyderabad,Fail
+STU079,Arjun Kumar,26,Mechanical,93,91,Hyderabad,Fail
+STU080,Meera Joshi,18,Mechanical,67,55,Delhi,Pass
